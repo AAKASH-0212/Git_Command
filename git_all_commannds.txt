@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+this is all commands file for perform the commands of git 
+=======
+this is all commands file for perform the commandsgit 
+>>>>>>> Stashed changes
